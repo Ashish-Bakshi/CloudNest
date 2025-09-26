@@ -87,6 +87,6 @@ Open [http://localhost:3000](http://localhost:3000) to see your project in actio
 
 ## ✨ Live Demo
 
-Visit [CloudNest Live🡭](#) to experience the platform firsthand.
+Visit [CloudNest Live🡭](https://cloud-nest-ten-nu.vercel.app/) to experience the platform firsthand.
 
 >Made with ❤️ by Ashish Bakshi
